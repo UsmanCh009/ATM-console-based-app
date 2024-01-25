@@ -1,0 +1,50 @@
+[
+  {
+    "username": "e",
+    "balance": 1100.0,
+    "transfer_limit": "200",
+    "withdrawl_limit": "50"
+  },
+  {
+    "username": "t",
+    "balance": 438.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "q",
+    "balance": 471,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "ssd",
+    "balance": 605.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "k",
+    "balance": 50.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "xc",
+    "balance": 0.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "muhammad",
+    "balance": 3000.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  },
+  {
+    "username": "rt",
+    "balance": 0.0,
+    "transfer_limit": 100.0,
+    "withdrawl_limit": 100.0
+  }
+]

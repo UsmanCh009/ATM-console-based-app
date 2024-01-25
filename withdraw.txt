@@ -1,0 +1,13 @@
+{"username": "e", "datetime": "2023-01-01 13:50:03", "withdrawn_amount": 9.0, "new_balance": 490.0}
+{"username": "ssd", "datetime": "2023-12-18 14:38:00", "withdrawn_amount": 400.0, "new_balance": 600.0}
+{"username": "e", "datetime": "2024-01-08 14:53:33", "withdrawn_amount": 40.0, "new_balance": 450.0}
+{"username": "e", "datetime": "2024-01-18 15:45:46", "withdrawn_amount": 50.0, "new_balance": 595.0}
+{"username": "e", "datetime": "2024-01-18 16:26:06", "withdrawn_amount": 40.0, "new_balance": 625.0}
+{"username": "e", "datetime": "2024-01-18 16:32:15", "withdrawn_amount": 30.0, "new_balance": 595.0}
+{"username": "e", "datetime": "2024-01-18 16:34:23", "withdrawn_amount": 30.0, "new_balance": 565.0}
+{"username": "e", "datetime": "2024-01-18 16:37:20", "withdrawn_amount": 50.0, "new_balance": 545.0}
+{"username": "e", "datetime": "2024-01-23 17:50:16", "withdrawn_amount": 50.0, "new_balance": 385.0}
+{"username": "ssd", "datetime": "2024-01-24 13:35:42", "withdrawn_amount": 50.0, "new_balance": 905.0}
+{"username": "ssd", "datetime": "2024-01-24 13:36:21", "withdrawn_amount": 200.0, "new_balance": 705.0}
+{"username": "ssd", "datetime": "2024-01-24 13:44:37", "withdrawn_amount": 100.0, "new_balance": 605.0}
+{"username": "e", "datetime": "2024-01-24 15:52:16", "withdrawn_amount": 50.0, "new_balance": 1120.0}
